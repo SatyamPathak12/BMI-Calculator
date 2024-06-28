@@ -1,1 +1,1 @@
-# BMI-Calculator
+A BMI Calculator web application that allows users to input their height and weight to calculate their Body Mass Index (BMI) and categorize their weight status. The app features a user-friendly interface with real-time validation and classification of BMI results using HTML, CSS, and JavaScript.
